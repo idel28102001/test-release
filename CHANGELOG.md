@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/idel28102001/test-release/compare/v2.4.3...v2.5.0) (2023-06-25)
+
+
+### Features
+
+* d213dasdsadas ([62b8534](https://github.com/idel28102001/test-release/commit/62b8534846dfff8b5d228b619cb29b9aeb896ba4))
+
 ## [2.4.1](https://github.com/idel28102001/test-release/compare/v2.4.0...v2.4.1) (2023-06-25)
 
 
