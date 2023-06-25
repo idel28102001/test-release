@@ -1,3 +1,10 @@
+# [2.6.0](https://github.com/idel28102001/test-release/compare/v2.5.0...v2.6.0) (2023-06-25)
+
+
+### Features
+
+* dasdw3123d ([6cc3cd1](https://github.com/idel28102001/test-release/commit/6cc3cd193594099b3ec17d7af9bc8645239ccdae))
+
 # [2.5.0](https://github.com/idel28102001/test-release/compare/v2.4.3...v2.5.0) (2023-06-25)
 
 
