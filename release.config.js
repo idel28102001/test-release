@@ -10,7 +10,7 @@ const config = {
             }
         ],
         ['@semantic-release/git', {
-            "assets": ["CHANGELOG.md"],
+            "assets": ["./CHANGELOG.md"],
         }],
         '@semantic-release/github'
     ]
