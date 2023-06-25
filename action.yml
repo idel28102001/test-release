@@ -1,6 +1,11 @@
 name: Idel Gataullin test Action
 description: Testing release
+inputs:
+  person:
+    description: 'The person to greet'
+    required: true
+    default: 'Monolisa Octocat'
 runs:
   using: node16
   main: src/index.js
-  
+
