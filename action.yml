@@ -1,0 +1,6 @@
+name: Idel Gataullin test Action
+description: Testing release
+runs:
+  using: node16
+  main: src/index.js
+  
