@@ -1,4 +1,4 @@
 const core = require('@actions/core');
 const person = core.getInput('person');
 
-console.log(`Welcomesd dsadsa${person}!`);
+console.log(`Welcomesd dsadsadsad ${person}!`);
