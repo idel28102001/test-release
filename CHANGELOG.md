@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/idel28102001/test-release/compare/v2.6.0...v2.6.1) (2023-06-25)
+
+
+### Bug Fixes
+
+* new branch ([dac2bca](https://github.com/idel28102001/test-release/commit/dac2bca39b0b6d4f6fe086fcc5561e0cc258ae26))
+
 # [2.6.0](https://github.com/idel28102001/test-release/compare/v2.5.0...v2.6.0) (2023-06-25)
 
 
